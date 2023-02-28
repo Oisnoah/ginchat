@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\common",
+    "\\config",
+    "\\models",
+    "\\router",
+    "\\sql",
+    "\\test"
+  ],
+  "SelectedNode": "\\main.go",
+  "PreviewInSolutionExplorer": false
+}
